@@ -18,3 +18,8 @@
     width: 600px;
     border:1px solid black !important;
 }
+
+.mid-section >.row >.col{
+    height: 36vh !important;
+    margin-top: 20px;
+}
